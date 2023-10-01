@@ -2,7 +2,7 @@
    Hey! 👋 I'm Jur4ik
 </h1>
 
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
