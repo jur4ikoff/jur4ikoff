@@ -24,17 +24,17 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 - My [life blog](https://t.me/jur4ikdzn)
 - Contact me: [telegram](https://t.me/jur4ikoff)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jur4ikoff&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jur4ikoff&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jur4ikoff&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jur4ikoff&layout=compact&theme=aura&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Semantic_Similarity_Of_Two_Texts&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Semantic_Similarity_Of_Two_Texts&theme=aura" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=BMSTU_SEM_1&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=BMSTU_SEM_1&theme=aura" />
 </a>
 
 
