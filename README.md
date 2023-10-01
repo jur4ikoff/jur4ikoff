@@ -2,25 +2,23 @@
    Hey! 👋 I'm Jur4ik
 </h1>
 
-I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
+I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o. 
 
 
 - 👨‍🎓 BMSTU Student. Future software engineer
 
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
 
-- 👨‍💻 No work experience
-
 - 💻 Several completed projects
-
+- 
+- 👨‍💻 No work experience
+- 
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- 👨‍💻 Python and many frameworks
+- ⚙️ Css, Html
+- 💽 SQL
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
