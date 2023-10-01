@@ -2,7 +2,6 @@
    Hey! 👋 I'm Jur4ik
 </h1>
 
-## Hey! 👋
 I'm Marton, a 20 years old web developer from Hungary.
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
