@@ -34,5 +34,5 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Semantic_Similarity_Of_Two_Texts&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=BMSTU_SEM_1&theme=buefy" />
 </a>
