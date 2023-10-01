@@ -10,9 +10,9 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
 
 - 💻 Several completed projects
-- 
+
 - 👨‍💻 No work experience
-- 
+
 + a lot more ;)
 
 ## Skills
@@ -21,6 +21,4 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 - 💽 SQL
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- My [life blog](https://t.me/jur4ikdzn)
