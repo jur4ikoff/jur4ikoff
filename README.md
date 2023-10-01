@@ -22,3 +22,4 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 ## Contact
 - My [life blog](https://t.me/jur4ikdzn)
+- Contact me: [telegram](https://t.me/jur4ikoff)
