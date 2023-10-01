@@ -24,6 +24,8 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 - My [life blog](https://t.me/jur4ikdzn)
 - Contact me: [telegram](https://t.me/jur4ikoff)
 
+
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikdevelop&theme=apprentice)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jur4ikoff&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jur4ikoff&layout=compact&theme=aura&hide_border=true" /></a> |
 | ------------- | ------------- |
 
