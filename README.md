@@ -9,6 +9,8 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
   
 - 💻 Python backend developer
 
+- Clang Student
+
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
 
 - 💻 Several completed projects
@@ -16,7 +18,9 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 - 👨‍💻 No work experience
 
 ## Skills
-- 👨‍💻 Python and many frameworks
+- 👨‍💻 Python Flask/Qt/Pandas
+- Clang
+- Bash
 - ⚙️ Css, Html
 - 💽 SQL
 
