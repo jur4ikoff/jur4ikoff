@@ -15,7 +15,6 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 - 💻 Several completed projects
 
-- 👨‍💻 No work experience
 
 ## Skills
 - 👨‍💻 Python Flask/Qt/Pandas
