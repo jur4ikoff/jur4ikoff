@@ -42,3 +42,10 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=BMSTU_PYTHON&theme=aura" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Sort_time_experiment&theme=aura" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Avito_Parser&theme=aura" />
+</a>
+
