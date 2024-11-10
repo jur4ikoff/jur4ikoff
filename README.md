@@ -29,22 +29,22 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 ## My stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jur4ikoff&theme=aura)
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jur4ikoff&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jur4ikoff&layout=compact&theme=test&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jur4ikoff&show_icons=true&include_all_commits=true&theme=test&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jur4ikoff&layout=compact&theme=test&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Semantic_Similarity_Of_Two_Texts&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Semantic_Similarity_Of_Two_Texts&theme=test" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=BMSTU_PYTHON&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=BMSTU_PYTHON&theme=test" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Sort_time_experiment&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Sort_time_experiment&theme=test" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Avito_Parser&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jur4ikoff&repo=Avito_Parser&theme=test" />
 </a>
 
