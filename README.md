@@ -13,8 +13,6 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
 
-- 💻 Several completed projects
-
 
 ## My stack
 - 🐍 Python fast api, flask, pandas, matplotlib, seaborn, numpy, request, selenium, bs4 && another internal frameworks
