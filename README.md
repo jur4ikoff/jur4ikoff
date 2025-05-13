@@ -15,8 +15,8 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 
 ## My stack
-- 🐍 Python fast api, flask, pandas, matplotlib, seaborn, numpy, request, selenium, bs4 && another internal frameworks
-- 💾 C (Base, Make, Check)
+- 🐍 Python flask, pandas, matplotlib + seaborn, fast api, aiohttp numpy, ctypes, request, pytest, bs4, Windivert, Pyqt5 && another internal frameworks
+- 💾 C/C++ Qt6, Gtest, CMake, Check
 - ⚙️ Bash
 - 💻 Css, Html
 - 💽 SQL
