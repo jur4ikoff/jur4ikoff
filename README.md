@@ -7,7 +7,7 @@ I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o.
 
 - 👨‍🎓 BMSTU Student. Software Engineering
   
-- 💻 Python backend developer
+- 💻 Backend developer
 
 - 👨‍🎓 Study
 
