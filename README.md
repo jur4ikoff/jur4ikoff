@@ -2,12 +2,11 @@
    Hey! 👋 I'm Jur4ik
 </h1>
 
-I'm Yurii, better known as jur4ik and jur4ikoff. I turned 18 y.o. 
+I'm Yurii, better known as jur4ik and jur4ikoff. 20 y.o.
 
 
-- 👨‍🎓 BMSTU Student. Software Engineering  
-- 💻 Backend developer  
-- 👨‍🎓 Study  
+- 👨‍🎓 BMSTU Software Engineering (IU7) Student
+- 💛 Backend developer
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)  
 
 
