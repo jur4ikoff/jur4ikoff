@@ -6,7 +6,7 @@ I'm Yurii, better known as jur4ik and jur4ikoff. 20 y.o.
 
 
 - 👨‍🎓 BMSTU Software Engineering (IU7) Student
-- 💛 Backend developer
+- 💛 T-Bank Backend developer
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)  
 
 
