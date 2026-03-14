@@ -1,13 +1,11 @@
 <h1 align="center">
-   Hey! 👋 I'm Jur4ik
+   Hey! 👋 I'm Jur4ik 20 y.o.
 </h1>
 
-I'm Yurii, better known as jur4ik and jur4ikoff. 20 y.o.
-
-
 - 👨‍🎓 BMSTU Software Engineering (IU7) Student
-- 💛 T-Bank Backend developer
-- 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)  
+- 💛 T-Bank Python & Go dev
+- 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
+- 📷 [Make photo](t.me/jur4ikdzn) in free time  
 
 
 ## My stack
