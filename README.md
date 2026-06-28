@@ -3,12 +3,13 @@
 </h1>
 
 - 👨‍🎓 BMSTU Software Engineering (IU7) Student
-- 💛 T-Bank Python & Go dev
+- 💛 T-Bank Golang developer
 - 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
 - 📷 [Make photo](t.me/jur4ikdzn) in free time  
 
 
 ## My stack
+- 🐹 Golang
 - 🐍 Python fastAPI, aiohttp, pytest, asyncio, flask, pandas, matplotlib + seaborn, numpy, ctypes, request, bs4, Windivert, Pyqt5 && another internal frameworks
 - 💾 C/C++ Qt6, Gtest, CMake, Check
 - Docker/docker-compose
