@@ -1,5 +1,10 @@
 # 💫 About Me:
-<h1 align="center"><br>   Hey! 👋 I'm Jur4ik 20 y.o.<br></h1><br><br>- 👨‍🎓 BMSTU Software Engineering (IU7) Student<br>- 💛 T-Bank Golang developer<br>- 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)<br>- 📷 [Make photo](t.me/jur4ikdzn) in free time  <br>
+<h1 align="center"><br>   Hey! 👋 I'm Jur4ik 20 y.o.<br></h1><br><br>
+
+- 👨‍🎓 BMSTU Software Engineering (IU7) Student
+- 💛 T-Bank Golang developer
+- 💼 Founder of [Jur4ik Design](https://vk.com/jur4ikdzn)
+- 📷 [Make photo](t.me/jur4ikdzn) in free time  <br>
 
 
 # 💻 Tech Stack:
