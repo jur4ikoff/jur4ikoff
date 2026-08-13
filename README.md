@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center"><br>   Hey! 👋 I'm Jur4ik 20 y.o.<br></h1><br><br>
+<h1 align="center"><br>Hey! 👋 I'm Jur4ik 20 y.o.<br></h1><br>
 
 - 👨‍🎓 BMSTU Software Engineering (IU7) Student
 - 💛 T-Bank Golang developer
